@@ -2,7 +2,6 @@ from enum import Enum
 
 NUMBER_OF_DRIVERS = 5
 NUMBER_OF_CONSTRUCTORS = 2
-TEAM_SIZE = 7
 TRANSFER_PENALTY_POINTS = -10
 
 class TeamMemberType(Enum):
