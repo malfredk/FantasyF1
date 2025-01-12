@@ -1,4 +1,3 @@
-from file_utils import create_list_from_file, read_team_members_from_file
 from team_utils import NUMBER_OF_DRIVERS, NUMBER_OF_CONSTRUCTORS, Team
 from itertools import combinations
 
